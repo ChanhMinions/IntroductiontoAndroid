@@ -21,6 +21,9 @@
 
 ### Chúc Các Bạn Thành Công !!!
 
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/LayoutSample">Chúc Các Bạn Thành Công !!!</a>
 
 ![image](ezr.png)
 
