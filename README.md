@@ -18,3 +18,10 @@
 - Click sẽ hiện ra phần quan trọng như trong hình:
 
 ![image](Untitled10.png)
+
+### Chúc Các Bạn Thành Công !!!
+
+
+![image](ezr.png)
+
+                                                                                Trần Phú , Ngày 23 tháng 7 Năm 2020
