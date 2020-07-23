@@ -12,6 +12,9 @@
 - Click Next, accept the default options, and Finish.
 - By default, a Hello World message will occur on the main screen, as in the following screenshot:
 
-![image](Untitled5.png)
+![image](Untitled6.png)
 
+- Thực hiện các bước giúp Chúng Ta Có Thẻ Hiểu Rõ Hơn Phần này:
+- Click sẽ hiện ra phần quan trọng như trong hình:
 
+![image](Untitled10.png)
