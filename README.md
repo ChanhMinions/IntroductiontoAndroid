@@ -23,7 +23,7 @@
 
 ### Bạn Có Thể Xem Bài Tiếp Theo:
 
-- <a href="https://github.com/ChanhMinions/LayoutSample">Chúc Các Bạn Thành Công !!!</a>
+- <a href="https://github.com/ChanhMinions/LayoutSample">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X!</a>
 
 ![image](ezr.png)
 
